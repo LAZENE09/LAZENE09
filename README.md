@@ -5,10 +5,16 @@
 <img src="assets/divider.svg" alt="" width="800" />
 
 <!-- Substitua os dois endereços abaixo pelos seus contatos antes de publicar. -->
+
 <p align="left">
-  <a href="www.linkedin.com/in/alan-silva-199233324"><img src="assets/linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:alanrcs.dev@gmail.c"><img src="assets/email.svg" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/alan-silva-199233324/">
+    <img src="assets/linkedin.svg" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alanrcs.dev@gmail.com">
+    <img src="assets/email.svg" alt="E-mail" />
+  </a>
 </p>
+
 
 ## Sobre mim
 
